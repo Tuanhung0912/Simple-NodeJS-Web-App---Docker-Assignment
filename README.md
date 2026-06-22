@@ -1,9 +1,3 @@
-# simpleNodeJS
-
-A minimal Node.js example application with a Dockerfile demonstrating how to build and run the app in a container. This README explains the project structure, each file's purpose, how to run locally, and step-by-step Docker examples (build, run, and compose).
-
----
-
 ## Table of Contents
 
 - Project Overview
